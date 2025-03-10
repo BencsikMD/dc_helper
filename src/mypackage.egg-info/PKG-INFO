@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: mypackage
+Version: 0.0.1
+Summary: Dataclass Testing
+Author-email: Michael Bencsik <michaeldbencsik@gmail.com>
+Requires-Python: ==3.13.*
+Requires-Dist: dacite==1.9.2
